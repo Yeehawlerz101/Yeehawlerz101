@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 [![Website](https://img.shields.io/website?label=deviatedsystems.com&style=for-the-badge&url=https%3A%2F%2Fdeviatedsystems.com)](https://deviatedsystems.com)
 [![Twitter Follow](https://img.shields.io/twitter/follow/NmasterOffical?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%Yeehawlerz101&screen_name=Yeehawlerz101)
 
-## I'm a Gamer, Developer, and Business owner!!
+## I'm a Uncle, Developer, and Business owner!!
 
 - 🔭 I Have a blog; visit [Yeehawlerz101.live](https://Yeehawlerz101.live) for random tidbits (I try to post every now and then).
 - 🌱 I’m currently learning & sharpening my PHP & Wordpress skills. 🤣
