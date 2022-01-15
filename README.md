@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate with other developers & Teams.
 - 💬 Ask me about: being a webmaster and owning a startup.
 - 📫 How to reach me: [N.Master@deviatedsystems.com](mailto:n.master@deviatedsystems.com?subject=Github)
-- 🥅 2021 Goals: Reach 50k In sales & provide opportunities to the people around me.
+- 🥅 2021 Goals: Reach 150k In sales & provide opportunities to the people around me.
 - ⚡ Fun fact: I love to play video games and eat good food.
 
 ### Spotify Playlist 🎧
