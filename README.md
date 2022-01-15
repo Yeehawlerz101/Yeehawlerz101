@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 ## I'm a Uncle, Developer, and Business owner!!
 
 - 🔭 I Have a blog; visit [Yeehawlerz101.live](https://Yeehawlerz101.live) for random tidbits (I try to post every now and then).
-- 🌱 I’m currently learning & sharpening my PHP & Wordpress skills. 🤣
+- 🌱 I’m currently learning & sharpening my PHP & Javascript skills. 🤣
 - 👯 I’m looking to collaborate with other developers & Teams.
 - 💬 Ask me about: being a webmaster and owning a startup.
 - 📫 How to reach me: [N.Master@deviatedsystems.com](mailto:n.master@deviatedsystems.com?subject=Github)
