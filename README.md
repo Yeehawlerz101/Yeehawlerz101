@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+[![Yeehawlerz101's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yeehawlerz101)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Hi there, I'm Neil - aka [Yeehawlerz101][website] 👋
 
